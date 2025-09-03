@@ -1,6 +1,6 @@
 # Forecasted-social-media-category-trends-using-KPIs-and-AI-driven-time-series-modeling.
 
-## 📌 Project Summary (GitHub README)
+## 📌 Project Summary
 
 ### **Social Media Engagement Trend Analysis & Forecasting**
 
